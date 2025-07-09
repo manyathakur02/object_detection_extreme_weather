@@ -5,6 +5,12 @@ This project trains a deep learning model to train and predict objects in extrem
 ## Project Structure
 - data
     - test
+        -images
+        -labels
     - train
+        -images
+        -labels
     - valid
+        -images
+        -labels
 - model_training
