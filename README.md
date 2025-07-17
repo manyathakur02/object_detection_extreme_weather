@@ -5,12 +5,19 @@ This project trains a deep learning model to train and predict objects in extrem
 ## Project Structure
 - data
     - test
-          -images
-          -labels
+        - images
+        - labels
     - train
-          -images
-          -labels
+        - images
+        - labels
     - valid
-          -images
-          -labels
+        - images
+        - labels
+    - data.yaml file
 - model_training
+    - curves_and_labels
+    - results_and_arg
+    - train_validation_batches
+    - weights
+- colab_notebook
+    - object_detection
