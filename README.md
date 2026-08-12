@@ -1,5 +1,5 @@
 # object_detection_extreme_weather
-This project trains a deep learning model to train and predict objects in extreme weather conditions. 
+fine- tuning of yolov8 to detect objects in extreme weather conditions
 
 
 ## Project Structure
